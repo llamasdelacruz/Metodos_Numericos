@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>unidad4</class>
+ <widget class="QDialog" name="unidad4">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>768</width>
+    <height>539</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Unidad 4</string>
+  </property>
+  <widget class="QPushButton" name="integracion">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>310</y>
+     <width>351</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Métodos integracion</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="derivacion">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>40</y>
+     <width>351</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Método derivacion</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="derivacion_2">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>170</y>
+     <width>351</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Métodos derivacion tres y cinco puntos</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
